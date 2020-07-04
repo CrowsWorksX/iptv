@@ -66,14 +66,8 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="MY" tvg-url="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/299_144.png" group-title="Lokal",Naura
 https://agplayback03.aotg-video.astro.com.my/CH2/master_NAURAGOSHOP4.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="MY" tvg-url="" tvg-logo="https://scontent.fsin4-1.fna.fbcdn.net/v/t1.0-9/40139579_2104726596447856_2694869340020277248_n.png?_nc_cat=106&_nc_sid=174925&_nc_ohc=EtvDkhfApQ0AX8rlJuY&_nc_ht=scontent.fsin4-1.fna&oh=fc4e650978950445bc66528f4c4bce0b&oe=5F25AD50" group-title="Malaysia",Pertiwi TV
-https://mn-nl.mncdn.com/pertiwitv/pertiwitv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="MY" tvg-url="" tvg-logo="https://www.tvikim.my/images/logo-header-02.png" group-title="Malaysia",TV Ikim
 http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="MY" tvg-url="" tvg-logo="" group-title="Malaysia",TV AlHijrah
-|Referer=https://www.youtube.com/channel/UCa5Go98H_EQOqwjYgx5-suw/live
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="ID" tvg-url="" tvg-logo="https://cdn01.metrotvnews.com/asset/images/main/metrotv_white.png" group-title="Indonesia",Metro TV
 http://edge.metroTVnews.com:1935/live-edge/smil:metro.smil/master.m3u8
